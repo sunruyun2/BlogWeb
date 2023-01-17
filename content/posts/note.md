@@ -1,7 +1,7 @@
 ---
 title: "linux command resource"
 date: 2023-01-14T15:17:48Z
-draft: false
+draft: true
 ---
 # The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners
 
