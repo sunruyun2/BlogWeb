@@ -1,6 +1,6 @@
 baseURL: "https://wondrous-swan-ff47f7.netlify.app"
 languageCode: en-us
-title: Demo for Hugo2
+title: Ruyun's Blog # here changes the title of the webpage
 theme: PaperMod
 
 params:
